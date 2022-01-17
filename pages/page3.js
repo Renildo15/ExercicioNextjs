@@ -1,4 +1,4 @@
-export default function Page3(){
+const page3 = function(){
     return(
         <div>
            <h1>
@@ -7,3 +7,6 @@ export default function Page3(){
         </div>
     )
 }
+
+
+module.exports = page3;

@@ -6,3 +6,10 @@ export default function Home(){
         </div>
     )
 }
+
+
+const page3Func = require("./page3")
+const page4Func = require("./page4")
+
+page3Func();
+page4Func();
