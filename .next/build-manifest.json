@@ -30,11 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/page3": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/page3.js"
-    ],
     "/pagesInt/novapagina": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
