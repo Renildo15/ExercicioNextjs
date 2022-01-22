@@ -1,0 +1,20 @@
+{
+  "files": {
+    "pages/Componentes/page4.js": [
+      {
+        "id": "d6b44ef5-c616-4c34-9fe1-712501e2f39e",
+        "line": 1,
+        "version": 109,
+        "index": 0
+      }
+    ],
+    "pages/Componentes/pagina3": [
+      {
+        "id": "3f41c273-03bf-44bd-b915-6e43adf998be",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ]
+  }
+}

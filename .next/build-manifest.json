@@ -35,10 +35,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/page3.js"
     ],
-    "/page4": [
+    "/pagesInt/novapagina": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/page4.js"
+      "static/chunks/pages/pagesInt/novapagina.js"
     ]
   },
   "ampFirstPages": []
