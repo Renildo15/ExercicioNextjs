@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/pagesInt/novapagina": "pages/pagesInt/novapagina.js"
+  "/": "pages/index.js",
+  "/Componentes/page4": "pages/Componentes/page4.js"
 }

@@ -4,8 +4,16 @@
       {
         "id": "d6b44ef5-c616-4c34-9fe1-712501e2f39e",
         "line": 1,
-        "version": 109,
+        "version": 112,
         "index": 0
+      }
+    ],
+    "pages/Componentes/page5.js": [
+      {
+        "id": "2dc95cf1-2f29-4d86-853f-74a1746af747",
+        "line": 8,
+        "version": 12,
+        "index": 111
       }
     ],
     "pages/Componentes/pagina3": [

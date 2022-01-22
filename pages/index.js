@@ -13,8 +13,8 @@ export default function Home(){
 }
 
 
-const page3Func = require("./page3")
-const page4Func = require("./page4")
+const page3Func = require("./Componentes/page3")
+const page4Func = require("./Componentes/page4")
 
 page3Func();
 page4Func();
