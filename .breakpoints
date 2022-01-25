@@ -1,5 +1,13 @@
 {
   "files": {
+    "next.configs.js": [
+      {
+        "id": "9e67474c-afba-469a-8222-614584df8694",
+        "line": 5,
+        "version": 49,
+        "index": 81
+      }
+    ],
     "pages/Componentes/page4.js": [
       {
         "id": "d6b44ef5-c616-4c34-9fe1-712501e2f39e",
