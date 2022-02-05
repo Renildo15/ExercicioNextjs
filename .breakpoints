@@ -1,11 +1,19 @@
 {
   "files": {
+    ".breakpoints": [
+      {
+        "id": "d09c3367-b90c-44d1-8d98-13d1a77e54f0",
+        "line": 10,
+        "version": 1,
+        "index": 174
+      }
+    ],
     "next.configs.js": [
       {
         "id": "9e67474c-afba-469a-8222-614584df8694",
         "line": 5,
-        "version": 49,
-        "index": 81
+        "version": 50,
+        "index": 82
       }
     ],
     "pages/Componentes/page4.js": [
@@ -30,6 +38,38 @@
         "line": 1,
         "version": 0,
         "index": 0
+      }
+    ],
+    "pages/[movies].js": [
+      {
+        "id": "9538354c-e78b-4a15-ad1f-aba340f0857b",
+        "line": 6,
+        "version": 1,
+        "index": 78
+      }
+    ],
+    "pages/movies2.js": [
+      {
+        "id": "00268cc6-ecb9-4a13-9de4-3505158fb338",
+        "line": 1,
+        "version": 17,
+        "index": 0
+      }
+    ],
+    "pages/pagesInt/movies.js": [
+      {
+        "id": "5618f7c0-b528-45fb-b944-4a0941db3033",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "pages/pagesInt/novapagina.js": [
+      {
+        "id": "1f96fe49-4ae1-4548-932a-84cc739fae3b",
+        "line": 6,
+        "version": 1,
+        "index": 120
       }
     ]
   }

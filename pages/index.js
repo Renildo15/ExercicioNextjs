@@ -1,5 +1,5 @@
-import {PaginaCinco} from "../Componentes/page5.js"
-import {PaginaSeis} from "../Componentes/page6.js"
+import {PaginaCinco} from "../componentes/page5.js"
+import {PaginaSeis} from "../componentes/page6.js"
 export default function Home(){
     return(
 
@@ -13,8 +13,8 @@ export default function Home(){
 }
 
 
-const page3Func = require("../Componentes/page3")
-const page4Func = require("../Componentes/page4")
+const page3Func = require("../componentes/page3")
+const page4Func = require("../componentes/page4")
 
 page3Func();
 page4Func();
