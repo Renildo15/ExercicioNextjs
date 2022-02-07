@@ -17,7 +17,7 @@ export default function Movies2(){
         <ul>
             
 
-            {data.Search.map( (m, i) => 
+            {data.Search.map( (m) => 
                <div>
                     <Link href={`/receita4/exe1/movieDetails/${m.imdbID}`}>
                       <a>{m.Title}</a>
