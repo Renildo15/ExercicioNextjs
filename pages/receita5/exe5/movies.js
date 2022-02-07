@@ -11,7 +11,7 @@ export default function Movies3(){
         e.preventDefault()
 
         const keyword = document.getElementById('field-movie').value 
-        if (url === '') setUrl(`http://www.omdbapi.com/?apikey=8ba47b1d&s=${keyword}`)
+        if (url === '') setUrl(`https://www.omdbapi.com/?apikey=8ba47b1d&s=${keyword}`)
 
         else setUrl('')
 
@@ -51,8 +51,7 @@ export function TheMovies({data,show}){
     return (
 
         <div>
-            { data.Search.map( (m) => <div key={i}>{m.Title} --- {m.Year}</div>  ) }            
-
+            { data.Search.map( (m) => <div>{m.Title} --- {m.Year}</div>  ) }
         </div>
 
     )
